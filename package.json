@@ -1,0 +1,26 @@
+{
+  "name": "ping-node-libp2p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogithub/ping-node-libp2p.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogithub/ping-node-libp2p/issues"
+  },
+  "homepage": "https://github.com/rogithub/ping-node-libp2p#readme",
+  "dependencies": {
+    "libp2p": "^0.30.12",
+    "libp2p-mplex": "^0.10.2",
+    "libp2p-noise": "^2.0.5",
+    "libp2p-tcp": "^0.15.4",
+    "multiaddr": "^8.1.2"
+  }
+}
